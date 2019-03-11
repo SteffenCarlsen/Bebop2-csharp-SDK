@@ -10,3 +10,9 @@ C:\HLWang\drone_UDP\drone_UDP\drone_UDP\obj\Debug\drone_UDP.pdb
 C:\HLWang\drone_UDP\drone_UDP\drone_UDP\bin\Debug\drone_UDP.exe
 C:\HLWang\drone_UDP\drone_UDP\drone_UDP\bin\Debug\drone_UDP.pdb
 C:\HLWang\drone_UDP\drone_UDP\drone_UDP\obj\Debug\drone_UDP.csprojResolveAssemblyReference.cache
+D:\Github\Bebop2-csharp-SDK\StandalonePC\drone_UDP\drone_UDP\bin\Debug\drone_UDP.pdb
+D:\Github\Bebop2-csharp-SDK\StandalonePC\drone_UDP\drone_UDP\obj\Debug\drone_UDP.csproj.CoreCompileInputs.cache
+D:\Github\Bebop2-csharp-SDK\StandalonePC\drone_UDP\drone_UDP\obj\Debug\drone_UDP.pdb
+D:\Github\Bebop2-csharp-SDK\StandalonePC\drone_UDP\drone_UDP\bin\Debug\drone_UDP.dll.config
+D:\Github\Bebop2-csharp-SDK\StandalonePC\drone_UDP\drone_UDP\bin\Debug\drone_UDP.dll
+D:\Github\Bebop2-csharp-SDK\StandalonePC\drone_UDP\drone_UDP\obj\Debug\drone_UDP.dll
